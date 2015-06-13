@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">AppPortfolio</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="res_spotify_streamer">SPOTIFY STREAMER</string>
+    <string name="res_scores_app">SCORES APP</string>
+    <string name="res_library_app">LIBRARY APP</string>
+    <string name="res_built_it_bigger">BUILT IT BIGGER</string>
+    <string name="res_xyz_reader">XYZ READER</string>
+    <string name="res_capstone">CAPSTONE: MY OWN APP</string>
+    <string name="res_nanodegree_app">My Nanodegree App</string>
+    <string name="res_my_signature">By Soumya Tripathy..</string>
     <string name="action_settings">Settings</string>
 </resources>
